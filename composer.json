@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-thunder/oxid-module-template-blocks",
+  "description": "Module für Template Block Anpassungen",
+  "type": "oxideshop-module",
+  "homepage": "https://github.com/vanilla-thunder/oxid-module-template-blocks",
+  "license": [
+    "GPL-3.0"
+  ],
+  "authors": [],
+  "extra": {
+    "oxideshop": {
+      "target-directory": "template-blocks"
+    }
+  },
+  "require": {
+    "php": ">=7.2",
+    "oxid-esales/oxideshop-ce": "^v6.2"
+  },
+  "autoload": {}
+}
+
+
