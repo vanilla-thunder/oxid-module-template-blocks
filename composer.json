@@ -1,6 +1,6 @@
 {
   "name": "vanilla-thunder/oxid-module-template-blocks",
-  "description": "Module für Template Block Anpassungen",
+  "description": "Module für eigene Template Block Anpassungen",
   "type": "oxideshop-module",
   "homepage": "https://github.com/vanilla-thunder/oxid-module-template-blocks",
   "license": [

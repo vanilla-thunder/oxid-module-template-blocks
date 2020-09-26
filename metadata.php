@@ -2,8 +2,8 @@
 $sMetadataVersion = '2.1';
 $aModule = [
     'id' => 'template-blocks',
-    'title' => 'Tempalte Blocks',
-    'description' => 'Module für Template Block Anpassungen',
+    'title' => 'Eigene Template Blocks',
+    'description' => 'Module für eigene Template Block Anpassungen',
     'thumbnail' => 'thumbnail.jpg',
     'version' => '1.0.0',
     'author' => '',
